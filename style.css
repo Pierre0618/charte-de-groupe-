@@ -11,3 +11,14 @@ img {
 h3 {
   text-align: center;
 }
+h4 {
+  text-align: left;
+}
+h5 {
+  color: rgba(255, 0, 0, 0.637);
+}
+h9 {
+  color: rgba(255, 0, 0, 0.637);
+h2 {
+  color: gray;
+}
