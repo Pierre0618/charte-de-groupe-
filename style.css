@@ -11,6 +11,7 @@ img {
 h3 {
   text-align: center;
 }
+<<<<<<< HEAD
 h4 {
   text-align: left;
 }
@@ -19,6 +20,8 @@ h5 {
 }
 h9 {
   color: rgba(255, 0, 0, 0.637);
+=======
+>>>>>>> 9fabeb8934a5f44ca2e9434832b7a865ddc66903
 h2 {
   color: gray;
 }
