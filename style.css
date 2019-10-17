@@ -12,23 +12,11 @@ h3 {
   text-align: center;
 }
 h4 {
-  text-align: left;
+  text-align: center;
 }
 h5 {
   color: rgba(255, 0, 0, 0.637);
 }
-h9 {
-  color: rgba(255, 0, 0, 0.637);
-<<<<<<< HEAD
-=======
-}
->>>>>>> f8165f7b79a82bbb5da95058bb335158969a820c
-h2 {
-  color: gray;
-}
-h6 {
-  text-align: left;
-}
-h7 {
-  text-align: left;
+p{
+  text-align: center;
 }
